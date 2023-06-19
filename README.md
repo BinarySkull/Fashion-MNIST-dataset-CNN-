@@ -23,4 +23,5 @@ I defined the image shape and the batch size and reshaped the data to fit the CN
 
 After fitting the model on the training set and validating it on the validation set, I evaluated the model on the testing set. The accuracy of the model was 0.9071, which is quite good for a basic CNN model. However, the loss could be improved a bit.
 
+#### Data could be found on kaggle this is a pretty famous dataset
 #### Overall, this project demonstrates how to apply a basic CNN model to a dataset and achieve good results.
